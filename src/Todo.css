@@ -1,0 +1,13 @@
+.todo{
+    background-color: rgb(231, 228, 228);
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    
+}
+.todo_body{
+    background-color: white;
+    width: 90vw;
+    height: 90vh;
+    box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.75);
+}

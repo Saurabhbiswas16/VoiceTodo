@@ -1,0 +1,5 @@
+.addTodo{
+    display:grid;
+    place-items: center;
+    margin-top:7vh;
+}

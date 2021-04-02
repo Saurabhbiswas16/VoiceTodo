@@ -1,0 +1,9 @@
+.header{
+    display:flex;
+}
+.header > p{
+    margin-right: 20px;
+}
+.header > Button{
+    padding:0;
+}
